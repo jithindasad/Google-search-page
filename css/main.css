@@ -1,0 +1,50 @@
+.nav-bar {
+    display: flex;
+    height: 120px;
+    
+}
+
+.left {
+   
+    height: 120px;
+    width: 50%;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+.search {
+    width: 70%;
+    border: 1px solid rgba(123, 129, 134, 0.1);
+    background-color: rgba(123, 129, 134, 0.1);
+    border-radius: 200px;
+
+}
+
+form {
+    text-align: center;
+}
+input {
+    width: 400px;
+    height: 28px;
+    margin-right: 30px;
+    background-color: rgba(123, 129, 134, 0.01);
+    outline-style: none;
+    border-style: none;
+
+}
+.right {
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 50%;
+    
+}
+
+.more {
+    margin-right: 17px;
+}
+
+.more img {
+    width: 20px;
+    height: 20px;
+}
