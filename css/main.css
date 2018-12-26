@@ -178,3 +178,29 @@ button {
     letter-spacing: .5px;
     word-spacing: .75px;
 }
+
+.detail-box {
+     margin-left: 75px;
+    margin-top: 50px;
+    width: 545px;
+    border: solid 1.2px rgba(123, 129, 134, 0.25);
+    border-radius: 25px;
+}
+
+.detail-box-h {
+    border-top: solid 1.2px rgba(123, 129, 134, 0.25);
+    border-bottom: solid 1.2px rgba(123, 129, 134, 0.25);
+    padding-left: 10px;
+}
+.fa-share-alt {
+    margin-left: 95px;
+}
+
+.detail-box-img {
+    border-top-left-radius: inherit;
+    border-top-right-radius: inherit;
+}
+
+.detail-box-content {
+    padding-left: 10px;
+}
