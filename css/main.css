@@ -131,7 +131,7 @@ button {
 
 .content {
     display: flex;
-    height: 800px;
+    height: 1150px;
 }
 
 .content-left {
@@ -221,4 +221,32 @@ h4 {
 }
 .search-related p{
     color:#1a0dab;
+}
+#more-result-img {
+    width:350px;
+    height: 85px;
+    margin-left: 250px;
+}
+
+.footer {
+    font-size: 13px;
+    padding-left: 199px;
+    word-spacing: 5px;
+    height: 50px;
+    display: flex;
+    flex-direction: column;
+    background: #e4e4e4;
+    color: #5f6368;
+}
+.footer-top {
+    display: flex;
+    justify-content: space-between;
+    flex-basis: 50%;
+    width: 600px;
+    align-items: center;
+}
+.footer-bottom {
+    display: flex;
+    width: 600px;
+    justify-content: space-evenly;
 }
