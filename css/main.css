@@ -159,6 +159,13 @@ button {
     p:nth-child(2) {
         color: #006621;
     }
+
+    .inside-content-l-line{
+        color: #1a0dab; 
+    }
 .content-right {
     flex-basis: 50%;
+}
+.inside-content-date {
+    color: rgba(123, 129, 134, 0.99);
 }
