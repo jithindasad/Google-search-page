@@ -206,3 +206,19 @@ button {
     padding-left: 10px;
     line-height: 7.2px;
 }
+
+.search-related {
+    margin-left: 199px;
+    display: flex;
+    font-size: 13px;
+}
+.search-related-right{
+    position: relative;
+    left: 35px;
+}
+h4 {
+    margin-left: 199px;
+}
+.search-related p{
+    color:#1a0dab;
+}
