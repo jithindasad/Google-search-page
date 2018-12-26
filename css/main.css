@@ -160,7 +160,7 @@ button {
         color: #006621;
     }
 
-    .inside-content-l-line{
+    .inside-content-l-line, #wiki{
         color: #1a0dab; 
     }
 .content-right {
@@ -182,7 +182,7 @@ button {
 .detail-box {
      margin-left: 75px;
     margin-top: 50px;
-    width: 545px;
+    width: 500px;
     border: solid 1.2px rgba(123, 129, 134, 0.25);
     border-radius: 25px;
 }
@@ -199,8 +199,10 @@ button {
 .detail-box-img {
     border-top-left-radius: inherit;
     border-top-right-radius: inherit;
+    width: 500px;
 }
 
 .detail-box-content {
     padding-left: 10px;
+    line-height: 7.2px;
 }
