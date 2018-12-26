@@ -169,3 +169,12 @@ button {
 .inside-content-date {
     color: rgba(123, 129, 134, 0.99);
 }
+.result-count {
+    color: rgba(123, 129, 134, 0.99);
+    margin-left: 191px;
+    font-size: 13px;
+    margin-top: 15px;
+    margin-bottom: 5px;
+    letter-spacing: .5px;
+    word-spacing: .75px;
+}
