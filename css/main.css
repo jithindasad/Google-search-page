@@ -34,6 +34,8 @@ button {
     text-decoration: none;
     /* display: inline-block; */
     font-size: 12px;
+    margin-top: 5px;
+    margin-bottom: 5px;
   }
 .search-box {
     border: 0;
@@ -66,4 +68,8 @@ button {
     justify-content: space-between;
     flex-basis: 30%;
     align-items: center;
+}
+
+.fa-th, .fa-bell, button {
+    margin-right: 5px;
 }
