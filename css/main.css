@@ -73,3 +73,48 @@ button {
 .fa-th, .fa-bell, button {
     margin-right: 5px;
 }
+
+.nav-two {
+    height: 44px;
+    align-items: flex-end;
+    /* border-bottom: solid 1px; */
+    border-bottom: solid 1.2px rgba(123, 129, 134, 0.25);
+    padding-bottom: 4px;
+    display: flex;
+}
+
+.nav-two-left {
+    display: flex;
+    flex-basis: 45%;
+    justify-content: space-between;
+}
+
+.nav-two-blank {
+    display: block;
+    width: 150px;
+    position: relative;
+}
+
+.nav-two-items {
+    display: flex;
+    flex-basis: 75%;
+    justify-content: space-between;
+    font-size: 14px;
+}
+
+.nav-two-items-left{
+    display: flex;
+    flex-basis: 60%;
+    justify-content: space-around;
+}
+
+.nav-two-items-right {
+    display: flex;
+    justify-content: space-around;
+    flex-basis: 25%;
+}
+
+.nav-two-right {
+    display: flex;
+    flex-basis: 55%;
+}
